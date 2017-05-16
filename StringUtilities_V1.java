@@ -175,7 +175,7 @@ class StringUtilities_V1
     }
   }
   
-  // Method to count letters in a string (excluding spaces and punctuation) (Not done, Yassine)
+  // Method to count letters in a string (excluding spaces and punctuation) (Entering -1 is a problem)
   public static void countLetters () {
       String userStatement ;
     do 
